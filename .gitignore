@@ -1,0 +1,10 @@
+node_modules
+dist
+.output
+artifacts
+screenshots
+attachments
+.env
+.env.*
+*.log
+.DS_Store
