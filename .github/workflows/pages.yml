@@ -16,7 +16,7 @@ concurrency:
 
 env:
   # Endereço temporário: /espaco-incluir-site/  |  Domínio próprio (oespacoincluir.com.br): /
-  BASE_PATH: /espaco-incluir-site/
+  BASE_PATH: /
 
 jobs:
   build:
